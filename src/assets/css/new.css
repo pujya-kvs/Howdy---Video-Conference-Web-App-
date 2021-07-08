@@ -9468,6 +9468,10 @@ button.bg-dark:hover {
   color: rgb(255, 255, 255);
   font-size: 35%;
 }
+.brandstyles {
+  font-size: 2rem;
+  font-family: cursive;
+}
 .textstyles {
   text-align: center !important;
   padding-top: 1rem;
