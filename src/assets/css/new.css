@@ -9463,7 +9463,7 @@ button.bg-dark:hover {
   text-align: center !important;
   padding-top: 0.1rem;
   font-size: 1rem;
-  font-family: monospace;
+  /*font-family: monospace;*/
 }
 .record-styles {
   color: rgb(255, 255, 255);
