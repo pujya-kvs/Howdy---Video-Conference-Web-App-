@@ -732,7 +732,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
-  margin-top: 25px;
+  /*margin-top: 25px;*/
 }
 .no-gutters {
   margin-right: 0;
