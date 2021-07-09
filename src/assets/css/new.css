@@ -9461,8 +9461,8 @@ button.bg-dark:hover {
 }
 .text-center {
   text-align: center !important;
-  padding-top: 1rem;
-  font-size: 3rem;
+  padding-top: 0.1rem;
+  font-size: 1rem;
 }
 .record-styles {
   color: rgb(255, 255, 255);
