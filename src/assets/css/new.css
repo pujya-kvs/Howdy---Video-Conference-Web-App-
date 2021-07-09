@@ -9471,7 +9471,12 @@ button.bg-dark:hover {
 }
 .brandstyles {
   font-size: 2rem;
+  font-weight: bolder;
   font-family: cursive;
+  background: -webkit-linear-gradient(#8e6675, #3612f9);
+  background-clip: none;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .textstyles {
   text-align: center !important;
