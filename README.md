@@ -23,5 +23,5 @@ To run this application on your machine:
 
 Clone this repository and execute the following commands\
 -> npm install\
--> cd sr\
+-> cd src\
 -> node app.js\
