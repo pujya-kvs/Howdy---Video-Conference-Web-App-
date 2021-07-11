@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pujya-kvs/Howdy---Video-Conference-Web-App-"
+    "url": "git+https://github.com/pujya-kvs/Howdy---Video-Conference-Web-Application-"
   },
   "keywords": [
     "LiveStream",
@@ -27,7 +27,7 @@
   "author": "Pujya Kothapalli <pujya.ite@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pujya-kvs/Howdy---Video-Conference-Web-App-"
+    "url": "https://github.com/pujya-kvs/Howdy---Video-Conference-Web-Application-"
   },
-  "homepage": "https://github.com/pujya-kvs/Howdy---Video-Conference-Web-App-/blob/main/README.md"
+  "homepage": "https://github.com/pujya-kvs/Howdy---Video-Conference-Web-Application-/blob/main/README.md"
 }
