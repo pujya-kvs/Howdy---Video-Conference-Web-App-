@@ -1,4 +1,4 @@
-# Howdy---Video-Conference-Web-App-
+# Howdy---Video-Conference-Web-Application-
 
 A Video Conference Web Application built using WebRTC (P2P Topology), NodeJs and Socket.io.
 
