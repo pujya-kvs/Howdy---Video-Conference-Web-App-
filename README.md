@@ -15,7 +15,7 @@ A Video Conference Web Application built using WebRTC (P2P Topology), NodeJs and
 -Video Record\
 -Remote Stream Expand\
 -Local Stream Pop-Out\
--Leave Room\
+-Leave Room
 
 Hosted on Heroku - https://tranquil-island-60379.herokuapp.com/
 
