@@ -2,8 +2,7 @@
 
 A Video Conference Web Application built using WebRTC (P2P Topology), NodeJs and Socket.io.
 
--This app lets you create rooms and have other people join the room using Room Id
-
+-This app lets you create rooms and have other people join the room using Unique Room Id\
 -1-1 Video Conference\
 -Group Video Conference\
 -Video Toggle (Enable/Disable)\
