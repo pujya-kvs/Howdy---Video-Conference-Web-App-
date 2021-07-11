@@ -18,16 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amirsanni/livestream-server.git"
+    "url": "git+https://github.com/pujya-kvs/Howdy---Video-Conference-Web-App-"
   },
   "keywords": [
     "LiveStream",
     "Server"
   ],
-  "author": "Amir Sanni <amirsanni@gmail.com>",
+  "author": "Pujya Kothapalli <pujya.ite@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amirsanni/livestream-server/issues"
+    "url": "https://github.com/pujya-kvs/Howdy---Video-Conference-Web-App-"
   },
-  "homepage": "https://github.com/amirsanni/livestream-server#readme"
+  "homepage": "https://github.com/pujya-kvs/Howdy---Video-Conference-Web-App-/blob/main/README.md"
 }
