@@ -19,9 +19,7 @@ A Video Conference Web Application built using WebRTC (P2P Topology), NodeJs and
 
 Hosted on Heroku - https://tranquil-island-60379.herokuapp.com/
 
-To run this application on your machine:
-
-Clone this repository and execute the following commands\
+To run this application on your machine, clone this repository and execute the following commands\
 -> npm install\
 -> cd src\
 -> node app.js\
